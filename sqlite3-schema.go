@@ -70,7 +70,7 @@ func (s DefaultSQLite3Schema) InsertQuery(topic string, msgs message.Messages) (
 
 func (s DefaultSQLite3Schema) batchSize() int {
 	if s.SubscribeBatchSize == 0 {
-		return 1
+		return 100
 	}
 
 	return s.SubscribeBatchSize
