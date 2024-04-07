@@ -6,6 +6,15 @@ Since there are a lot of issues using `sqlite3` for either in memory or with a f
 
 All you need to use `comfymill.NewDatabase`, use your own parameters (check `comfylite3` docs) and tadam!
 
+# Install 
+
+
+```
+go get -u github.com/davidroman0O/watermill-comfymill3
+```
+
+# Example
+
 It's a simple implementation of the MySql code for Sqlite3, here an example usage of it:
 
 ```go
