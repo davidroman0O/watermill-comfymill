@@ -9,7 +9,7 @@ import (
 	"github.com/ThreeDotsLabs/watermill-sql/v3/pkg/sql"
 	"github.com/ThreeDotsLabs/watermill/message"
 	"github.com/davidroman0O/comfylite3"
-	comfymill "github.com/davidroman0O/watermill-comfylite3"
+	comfymill "github.com/davidroman0O/watermill-comfymill"
 )
 
 func main() {
