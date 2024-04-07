@@ -1,4 +1,4 @@
-# Watermill Comfylite3 Pub/Sub
+# Watermill Comfylite Pub/Sub
 
 This is an unofficial `sqlite3` provider leveraging [`comfylite3`](https://github.com/davidroman0O/comfylite3) for the [Watermill](https://watermill.io/) project.
 
