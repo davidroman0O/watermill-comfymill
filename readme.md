@@ -1,6 +1,10 @@
 # Watermill Comfylite3 Pub/Sub
 
-This is an unofficial `sqlite3` provider leveraging `comfylite3` for the [Watermill](https://watermill.io/) project.
+This is an unofficial `sqlite3` provider leveraging [`comfylite3`](https://github.com/davidroman0O/comfylite3) for the [Watermill](https://watermill.io/) project.
+
+Since there are a lot of issues using `sqlite3` for either in memory or with a file when used in concurrency situations, `comfylite3` provide a while bypass for us.
+
+All you need to use `comfymill.NewDatabase`, use your own parameters (check `comfylite3` docs) and tadam!
 
 It's a simple implementation of the MySql code for Sqlite3, here an example usage of it:
 
@@ -9,7 +13,6 @@ It's a simple implementation of the MySql code for Sqlite3, here an example usag
 db, _ := comfymill.NewDatabase(
     comfylite3.WithMemory(),
 )
-
 
 subscriber, err := sql.NewSubscriber(
     db,
@@ -43,3 +46,6 @@ if err != nil {
 }
 
 ```
+
+You can refer to the [basic example too](./_example/basic/main.go)
+
