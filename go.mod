@@ -1,4 +1,4 @@
-module github.com/davidroman0O/watermill-comfylite3
+module github.com/davidroman0O/watermill-comfymill
 
 go 1.22.0
 
