@@ -12,7 +12,7 @@ All you need to use `comfymill.NewDatabase`, use your own parameters (check `com
 
 
 ```
-go get -u github.com/davidroman0O/watermill-comfymill3
+go get -u github.com/davidroman0O/watermill-comfymill
 ```
 
 # Example
