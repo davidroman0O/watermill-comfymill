@@ -5,7 +5,7 @@ go 1.22.0
 require (
 	github.com/ThreeDotsLabs/watermill v1.3.5
 	github.com/ThreeDotsLabs/watermill-sql/v3 v3.0.1
-	github.com/davidroman0O/comfylite3 v0.0.0-20240407174050-258b1d250c5c
+	github.com/davidroman0O/comfylite3 v0.0.0-20240822161355-5534ae49a60f
 )
 
 require (

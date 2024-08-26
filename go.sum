@@ -6,6 +6,8 @@ github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davidroman0O/comfylite3 v0.0.0-20240407174050-258b1d250c5c h1:lHCW+keT7kSklfGnvOQnFSHOy/UkE9UqFABFv7dQjPo=
 github.com/davidroman0O/comfylite3 v0.0.0-20240407174050-258b1d250c5c/go.mod h1:ZK7gxKnBEZF6EoUjFp6gRrq8GuYn7c68oXUMj5+iONY=
+github.com/davidroman0O/comfylite3 v0.0.0-20240822161355-5534ae49a60f h1:gHaZsZwBjIoF7zbuH4MOuXNQUlhMxWgW6R+NOv65Aws=
+github.com/davidroman0O/comfylite3 v0.0.0-20240822161355-5534ae49a60f/go.mod h1:ZK7gxKnBEZF6EoUjFp6gRrq8GuYn7c68oXUMj5+iONY=
 github.com/go-sql-driver/mysql v1.4.1 h1:g24URVg0OFbNUTx9qqY1IRZ9D9z3iPyi5zKhQZpNwpA=
 github.com/go-sql-driver/mysql v1.4.1/go.mod h1:zAC/RDZ24gD3HViQzih4MyKcchzm+sOG5ZlKdlhCg5w=
 github.com/google/uuid v1.2.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
