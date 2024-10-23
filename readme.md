@@ -21,9 +21,16 @@ It's a simple implementation of the MySql code for Sqlite3, here an example usag
 
 ```go
 
-db, _ := comfymill.NewDatabase(
-    comfylite3.WithMemory(),
-)
+comfy, err := comfylite3.New(comfylite3.WithMemory())
+if err != nil {
+    panic(err)
+}
+
+db := comfylite3.OpenDB(comfy)
+if err != nil {
+    panic(err)
+}
+
 
 subscriber, err := sql.NewSubscriber(
     db,

@@ -14,9 +14,12 @@ import (
 
 func main() {
 
-	db, err := comfymill.NewDatabase(
-		comfylite3.WithMemory(),
-	)
+	comfy, err := comfylite3.New(comfylite3.WithMemory())
+	if err != nil {
+		panic(err)
+	}
+
+	db := comfylite3.OpenDB(comfy)
 	if err != nil {
 		panic(err)
 	}

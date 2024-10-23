@@ -4,10 +4,10 @@ github.com/ThreeDotsLabs/watermill-sql/v3 v3.0.1 h1:+uW9Db+7Ep4uon7enOq1cozCRua3
 github.com/ThreeDotsLabs/watermill-sql/v3 v3.0.1/go.mod h1:iYZqlHt0tJPQIFwQSXoI6GnxDhTZhAzxVR1/EIS3DOw=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/davidroman0O/comfylite3 v0.0.0-20240407174050-258b1d250c5c h1:lHCW+keT7kSklfGnvOQnFSHOy/UkE9UqFABFv7dQjPo=
-github.com/davidroman0O/comfylite3 v0.0.0-20240407174050-258b1d250c5c/go.mod h1:ZK7gxKnBEZF6EoUjFp6gRrq8GuYn7c68oXUMj5+iONY=
-github.com/davidroman0O/comfylite3 v0.0.0-20240822161355-5534ae49a60f h1:gHaZsZwBjIoF7zbuH4MOuXNQUlhMxWgW6R+NOv65Aws=
-github.com/davidroman0O/comfylite3 v0.0.0-20240822161355-5534ae49a60f/go.mod h1:ZK7gxKnBEZF6EoUjFp6gRrq8GuYn7c68oXUMj5+iONY=
+github.com/davidroman0O/comfylite3 v0.0.0-20241022203115-47465282f1a4 h1:0SvN8JA0h+6dCvAlvUidARasO0nWyQC6AN0J5gF/dCE=
+github.com/davidroman0O/comfylite3 v0.0.0-20241022203115-47465282f1a4/go.mod h1:zlxmcDVqAlIlHfyI+y2gjRTK4iANR8zAdqqOv8FxXWo=
+github.com/davidroman0O/retrypool v0.0.0-20241012185236-da4e59b1e647 h1:HrcvCXWwhK3UPVvpAnvHWEw2FnLzb+2exCESIKkI1xg=
+github.com/davidroman0O/retrypool v0.0.0-20241012185236-da4e59b1e647/go.mod h1:JwPiwkzechOxNHCmaDs+/uk1tY9nQSLRrdiYLIy1gA4=
 github.com/go-sql-driver/mysql v1.4.1 h1:g24URVg0OFbNUTx9qqY1IRZ9D9z3iPyi5zKhQZpNwpA=
 github.com/go-sql-driver/mysql v1.4.1/go.mod h1:zAC/RDZ24gD3HViQzih4MyKcchzm+sOG5ZlKdlhCg5w=
 github.com/google/uuid v1.2.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
